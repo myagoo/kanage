@@ -19,6 +19,9 @@ A bash script to manage kanata keyboard configurations on macOS using launchctl.
    
    # Option 3: Add to your PATH by adding to ~/.zshrc or ~/.bashrc
    export PATH="$PATH:/path/to/kanage"
+
+   # Option 4: Create an alias in ~/.zshrc or ~/.bashrc
+   alias kanage="/path/to/kanage"\
    ```
 
 ## Prerequisites
